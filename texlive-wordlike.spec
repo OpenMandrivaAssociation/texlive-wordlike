@@ -6,7 +6,7 @@
 # catalog-version 1.2b
 Name:		texlive-wordlike
 Version:	1.2b
-Release:	6
+Release:	7
 Summary:	Simulating word processor layout
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wordlike
