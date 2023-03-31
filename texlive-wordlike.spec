@@ -1,6 +1,6 @@
 Name:		texlive-wordlike
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Simulating word processor layout
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wordlike
