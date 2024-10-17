@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Simulating word processor layout
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wordlike
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wordlike
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wordlike.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wordlike.doc.r%{version}.tar.xz
